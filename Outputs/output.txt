@@ -1,0 +1,48 @@
+Preprocessor Directive    : #include<stdio.h>
+Single Line Comment       : 
+Keyword                   : int
+Identifier                : main
+Delimiter                 : (
+Delimiter                 : )
+Delimiter                 : {
+Keyword                   : int
+Identifier                : a
+Assignment Operator       : =
+Integer Constant          : 10
+Delimiter                 : ;
+Keyword                   : float
+Identifier                : pi
+Assignment Operator       : =
+Floating Constant         : 3.14
+Delimiter                 : ;
+Keyword                   : char
+Identifier                : ch
+Assignment Operator       : =
+Character Literal         : 'A'
+Delimiter                 : ;
+Identifier                : a
+Increment Operator        : ++
+Delimiter                 : ;
+Keyword                   : if
+Delimiter                 : (
+Identifier                : a
+Relational Operator       : >=
+Integer Constant          : 10
+Logical Operator          : &&
+Identifier                : a
+Relational Operator       : !=
+Integer Constant          : 20
+Delimiter                 : )
+Delimiter                 : {
+Identifier                : printf
+Delimiter                 : (
+String Literal            : "Hello World"
+Delimiter                 : )
+Delimiter                 : ;
+Delimiter                 : }
+Multi Line Comment        : 
+Invalid Token             : @
+Keyword                   : return
+Integer Constant          : 0
+Delimiter                 : ;
+Delimiter                 : }
